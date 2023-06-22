@@ -12,18 +12,17 @@
 9) double_queue
 10) maven site
 
-
 ## Gruppenmitglieder
 
-### <ins>Benedikt Schmatz</ins>
+### Benedikt Schmatz
 #### Tasks / zugeteilte Branches:
-- [ ] maven branch 
+- [x] maven branch
 - [ ] maven_site branch
 - [ ] maven_detail
 - [ ] maven_site markdown
 
-**University:**
-**E-Mail:**
+**University:**  
+**E-Mail:**  
 Link to Github profile
 
 ### <ins>Andreas Armanious</ins>
@@ -34,8 +33,8 @@ Link to Github profile
 - [ ] javadoc branch
 - [ ] maven_site markdown
 
-**University:**
-**E-Mail:**
+**University:**  
+**E-Mail:**  
 Link to Github profile
 
 ### <ins>Daniel Zarnhofer</ins>
