@@ -2,7 +2,7 @@
 
 ## Taskliste und Gruppenmitglieder
 ### Benedikt Schmatz
-- [ ] maven branch
+- [x] maven branch
 - [ ] maven_site branch
 - [ ] maven_detail
 ### Andreas Armanious
