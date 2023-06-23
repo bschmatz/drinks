@@ -1,35 +1,46 @@
 package at.fhj.msd;
 
-// fastly written (not really nice) comments you should adapt
+import java.util.NoSuchElementException;
+
+/**
+ * Represents a Queue data structure that stores String elements.
+ */
 public interface IQueue {
-  /** 
-   * I am a really bad comment
-   * 
-   * fasdfadsffdsadsf
-   * 
-   * fdsasdfadsf
-   * 
-   *  add object to queue, true if okay 
-   * 
-   * i fell asleep on my keyboard...
-   * 
-   * */ 
-  public abstract boolean offer(String obj);
+    /**
+     * Adds the specified element to the queue.
+     *
+     * @param obj the String object to be added to the queue
+     * @return true if the element was successfully added, false if the queue is full
+     */
+    boolean offer(String obj);
 
-  //returns + del 1st element; null if nothing in there
-   //
-  public abstract String poll();
+    /**
+     * Retrieves, but does not remove, the head of the queue.
+     *
+     * @return the head of the queue, or null if the queue is empty
+     */
+    String peek();
 
-  /* 
-  same as poll, if there is nothing in there error NoSuchElementException
-   */
-  public abstract String remove();
+    /**
+     * Retrieves, but does not remove, the head of the queue.
+     *
+     * @return the head of the queue
+     * @throws NoSuchElementException if the queue is empty
+     */
+    String element();
 
-  // 1st element without dlete, otherwise null
-   
-  public abstract String peek();
+    /**
+     * Retrieves and removes the head of the queue.
+     *
+     * @return the head of the queue, or null if the queue is empty
+     */
+    String poll();
 
-  // element is to peek what remove is to poll
-  
-  public abstract String element();
+    /**
+     * Retrieves and removes the head of the queue.
+     *
+     * @return the head of the queue
+     * @throws NoSuchElementException if the queue is empty
+     */
+    String remove();
 }
