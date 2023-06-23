@@ -23,6 +23,21 @@
             </roles>
             <timezone>Europe/Vienna</timezone>
         </developer>
+        <developer>
+            <id>straumandi</id>
+            <name>Andreas Armanious</name>
+            <email>andreas.armanious@fh-joanneum.at</email>
+            <url>https://github.com/straumandi</url>
+            <organization>FH JOANNEUM GmbH</organization>
+            <organizationUrl>https://www.fh-joanneum.at</organizationUrl>
+            <roles>
+                <role>Student</role>
+            </roles>
+            <timezone>Europe/Vienna</timezone>
+            <properties>
+                <picUrl>https://avatars.githubusercontent.com/u/52195696?v=4</picUrl>
+            </properties>
+        </developer>
     </developers>
 
     <properties>
