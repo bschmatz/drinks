@@ -38,6 +38,17 @@
                 <picUrl>https://avatars.githubusercontent.com/u/52195696?v=4</picUrl>
             </properties>
         </developer>
+        <developer>
+            <id>dzarnhofer</id>
+            <name>Daniel Zarnhofer</name>
+            <email>daniel.zarnhofer@edu.fh-joanneum.at</email>
+            <organization>FH JOANNEUM GmbH</organization>
+            <organizationUrl>https://www.fh-joanneum.at</organizationUrl>
+            <roles>
+                <role>Student</role>
+            </roles>
+            <timezone>Europe/Vienna</timezone>
+        </developer>
     </developers>
 
     <properties>
