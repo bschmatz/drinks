@@ -6,7 +6,7 @@
 - [ ] maven_site branch
 - [ ] maven_detail
 ### Andreas Armanious
-- [ ] bug_hunt branch
+- [x] bug_hunt branch
 - [ ] drink branch
 - [ ] queue branch
 - [ ] javadoc branch
