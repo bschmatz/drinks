@@ -5,6 +5,7 @@
 - [x] maven branch
 - [ ] maven_site branch
 - [ ] maven_detail
+- [ ] check project for completion
 ### Andreas Armanious
 - [x] bug_hunt branch
 - [ ] drink branch
