@@ -30,13 +30,13 @@
 6) queue
     - [ ] create DrinkQueueInterface interface (**BS**)
     - [ ] create DrinkQueue class (**DZ**)
-   - 6.1) queueDZ
-     - [ ] create constructor (**DZ**)
-     - [ ] implement add() (**DZ**)
-   - 6.2) queueAA
-     - [ ] implement peek() (**AA**)
-   - 6.3) queueBS
-     - [ ] implement remove() (**BS**)
+    - 6.1) queueDZ
+       - [ ] create constructor (**DZ**)
+       - [ ] implement add() (**DZ**)
+    - 6.2) queueAA
+      - [ ] implement peek() (**AA**)
+    - 6.3) queueBS
+      - [ ] implement remove() (**BS**)
 7) javadoc
     - [ ] document Liquid (**BS**)
     - [ ] document StringQueue (**AA**)
@@ -47,15 +47,15 @@
     - [ ] implement tests for DrinkQueue (**DZ**)
     - [ ] implement tests for Cocktail (**AA**)
 9) double_queue
-- [ ] create DoubleQueueInterface interface (**BS**)
+    - [ ] create DoubleQueueInterface interface (**BS**)
     - [ ] create DoubleQueue class (**DZ**)
-    - 6.1) double_queueDZ
-        - [ ] create constructor (**DZ**)
-        - [ ] implement add() (**DZ**)
-    - 6.2) double_queueAA
-        - [ ] implement peek() (**AA**)
-    - 6.3) double_queueBS
-        - [ ] implement remove() (**BS**)
+    - 9.1) double_queueDZ
+       - [ ] create constructor (**DZ**)
+       - [ ] implement add() (**DZ**)
+   - 9.2) double_queueAA
+       - [ ] implement peek() (**AA**)
+   - 9.3) double_queueBS
+       - [ ] implement remove() (**BS**)
 10) maven_site
     - [ ] complete javadoc (**BS, AA, DZ**)
     - [ ] complete Tests (**BS, AA, DZ**)
