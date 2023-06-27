@@ -14,12 +14,13 @@
 
 ## Gruppenmitglieder
 
-### Benedikt Schmatz
+### <ins>Benedikt Schmatz</ins>
 #### Tasks / zugeteilte Branches:
 - [x] maven branch
 - [ ] maven_site branch
 - [ ] maven_detail
 - [ ] maven_site markdown
+- [ ] check project for completion
 
 **University:**  
 **E-Mail:**  
@@ -27,7 +28,7 @@ Link to Github profile
 
 ### <ins>Andreas Armanious</ins>
 #### Tasks / zugeteilte Branches:
-- [ ] bug_hunt branch
+- [x] bug_hunt branch
 - [ ] drink branch
 - [ ] queue branch
 - [ ] javadoc branch
