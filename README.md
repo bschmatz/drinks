@@ -28,7 +28,7 @@
     - [ ] implement getAlcoholPercent() (**BS**)
     - [ ] implement isAlcoholic() (**BS**)
 6) queue
-    - [ ] create DrinkQueueInterface interface (**BS**)
+    - [x] create DrinkQueueInterface interface (**BS**)
     - [ ] create DrinkQueue class (**DZ**)
     - 6.1) queueDZ
        - [ ] create constructor (**DZ**)
