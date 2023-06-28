@@ -1,8 +1,11 @@
 package at.fhj.msd;
 
+import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
 public interface DrinkQueueInterface {
+
+    ArrayList<Drink> queue = new ArrayList<Drink>();
 
     /**
      * Adds the specified element to the queue.
