@@ -22,8 +22,8 @@
     - [x] add test cases to StringQueue class (**AA**)
     - [x] update IQueue interface code structure ond format (**AA**)
 5) drink
-    - [ ] create Cocktail class (**AA**)
-    - [ ] implement constructor (**AA**)
+    - [x] create Cocktail class (**AA**)
+    - [x] implement constructor (**AA**)
     - [ ] implement getVolume() (**DZ**)
     - [ ] implement getAlcoholPercent() (**BS**)
     - [ ] implement isAlcoholic() (**BS**)
