@@ -28,6 +28,10 @@ public class Cocktail extends Drink {
 
     @Override
     public boolean isAlcoholic() {
+        if (getAlcoholPercent() > 0) {
+            return true;
+        }
+
         return false;
     }
 
