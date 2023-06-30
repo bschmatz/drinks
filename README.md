@@ -25,8 +25,8 @@
     - [x] create Cocktail class (**AA**)
     - [x] implement constructor (**AA**)
     - [ ] implement getVolume() (**DZ**)
-    - [ ] implement getAlcoholPercent() (**BS**)
-    - [ ] implement isAlcoholic() (**BS**)
+    - [x] implement getAlcoholPercent() (**BS**)
+    - [x] implement isAlcoholic() (**BS**)
 6) queue
     - [x] create DrinkQueueInterface interface (**BS**)
     - [ ] create DrinkQueue class (**DZ**)
