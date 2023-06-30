@@ -17,7 +17,13 @@ public class Cocktail extends Drink {
 
     @Override
     public double getAlcoholPercent() {
-        return 0;
+        double totalPercent = 0;
+
+        for (Liquid liquid : liquidList) {
+            totalPercent += liquid.getAlcoholPercent();
+        }
+
+        return totalPercent / liquidList.size();
     }
 
     @Override
