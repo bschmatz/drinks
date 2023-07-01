@@ -12,7 +12,13 @@ public class Cocktail extends Drink {
 
     @Override
     public double getVolume() {
-        return 0;
+        double totalVolume = 0;
+
+        for (Liquid liquid : liquidList) {
+            totalVolume += liquid.getVolume();
+        }
+
+        return totalVolume / liquidList.size();
     }
 
     @Override
