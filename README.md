@@ -38,7 +38,7 @@
     - 6.3) queueBS
       - [ ] implement remove() (**BS**)
 7) javadoc
-    - [ ] document Liquid (**BS**)
+    - [x] document Liquid (**BS**)
     - [x] document StringQueue (**AA**)
     - [ ] document DrinkQueue (**DZ**)
     - [ ] document Cocktail (**BS**)
