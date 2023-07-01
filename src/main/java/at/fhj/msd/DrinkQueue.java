@@ -1,5 +1,7 @@
 package at.fhj.msd;
 
+import java.util.NoSuchElementException;
+
 public class DrinkQueue implements DrinkQueueInterface{
 
 
@@ -18,6 +20,11 @@ public class DrinkQueue implements DrinkQueueInterface{
 
     @Override
     public Drink remove() {
+
+        if (queue.size() == 0) {
+            throw new NoSuchElementException("there's no element any more");
+        }
+
         Drink toBeRemoved = queue.get(0);
         queue.remove(0);
         return toBeRemoved;
