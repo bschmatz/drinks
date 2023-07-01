@@ -18,7 +18,7 @@ public class Cocktail extends Drink {
             totalVolume += liquid.getVolume();
         }
 
-        return totalVolume / liquidList.size();
+        return totalVolume;
     }
 
     @Override
