@@ -43,7 +43,7 @@
     - [ ] document DrinkQueue (**DZ**)
     - [x] document Cocktail (**BS**)
 8) tests
-    - [ ] implement tests for Liquid (**BS**)
+    - [x] implement tests for Liquid (**BS**)
     - [ ] implement tests for DrinkQueue (**DZ**)
     - [x] implement tests for Cocktail (**AA**)
 9) double_queue
