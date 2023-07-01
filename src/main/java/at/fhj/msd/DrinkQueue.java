@@ -10,7 +10,10 @@ public class DrinkQueue implements DrinkQueueInterface{
 
     @Override
     public Drink peek() {
-        return null;
+        if (queue.size() > 0) {
+            return queue.get(0);
+        } else
+            return null;
     }
 
     @Override
