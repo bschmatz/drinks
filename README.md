@@ -46,7 +46,7 @@
     - [x] implement tests for Liquid (**BS**)
     - [ ] implement tests for DrinkQueue (**DZ**)
     - [x] implement tests for Cocktail (**AA**)
-    - [ ] implement tests for SimpleDrink(**AA**)
+    - [x] implement tests for SimpleDrink(**AA**)
     - [x] implement tests for DoubleQueue(**BS**)
 9) double_queue
     - [x] create DoubleQueueInterface interface (**BS**)
