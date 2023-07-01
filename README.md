@@ -31,8 +31,8 @@
     - [x] create DrinkQueueInterface interface (**BS**)
     - [x] create DrinkQueue class (**DZ**)
     - 6.1) queueDZ
-       - [ ] create constructor (**DZ**)
-       - [ ] implement add() (**DZ**)
+       - [x] create constructor (**DZ**)
+       - [x] implement add() (**DZ**)
     - 6.2) queueAA
       - [x] implement peek() (**AA**)
     - 6.3) queueBS
