@@ -15,6 +15,8 @@ public class DrinkQueue implements DrinkQueueInterface{
 
     @Override
     public Drink remove() {
-        return null;
+        Drink toBeRemoved = queue.get(0);
+        queue.remove(0);
+        return toBeRemoved;
     }
 }
