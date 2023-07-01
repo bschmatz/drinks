@@ -13,6 +13,7 @@ public class DoubleQueueTest {
     @BeforeEach
     void setup() {
         queue = new DoubleQueue();
+        queue.clear();
     }
 
     @Test
