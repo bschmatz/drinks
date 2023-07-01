@@ -1,9 +1,23 @@
 package at.fhj.msd;
 
 public class DoubleQueue implements DoubleQueueInterface{
+
+    public DoubleQueue(){}
+    public DoubleQueue(Double obj){
+        doubleList.add(obj);
+    }
+
     @Override
     public boolean add(Double obj) {
-        return false;
+        boolean success = false;
+        int size = doubleList.size();
+        if (size < 13){
+            doubleList.add(obj);
+        }
+        if (doubleList.size() > size){
+            success = true;
+        }
+        return success;
     }
 
     @Override
