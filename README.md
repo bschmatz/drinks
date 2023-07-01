@@ -47,7 +47,7 @@
     - [ ] implement tests for DrinkQueue (**DZ**)
     - [ ] implement tests for Cocktail (**AA**)
 9) double_queue
-    - [ ] create DoubleQueueInterface interface (**BS**)
+    - [x] create DoubleQueueInterface interface (**BS**)
     - [ ] create DoubleQueue class (**DZ**)
     - 9.1) double_queueDZ
        - [ ] create constructor (**DZ**)
