@@ -35,4 +35,8 @@ public class DoubleQueue implements DoubleQueueInterface{
         doubleList.remove(0);
         return toRemove;
     }
+
+    public void clear() {
+        doubleList.clear();
+    }
 }
