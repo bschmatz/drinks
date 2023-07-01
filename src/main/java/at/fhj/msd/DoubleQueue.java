@@ -1,5 +1,7 @@
 package at.fhj.msd;
 
+import java.util.NoSuchElementException;
+
 public class DoubleQueue implements DoubleQueueInterface{
     @Override
     public boolean add(Double obj) {
@@ -13,6 +15,10 @@ public class DoubleQueue implements DoubleQueueInterface{
 
     @Override
     public Double remove() {
+        if (doubleList.isEmpty()) {
+            throw new NoSuchElementException();
+        }
+        
         Double toRemove = doubleList.get(0);
         doubleList.remove(0);
         return toRemove;
