@@ -41,7 +41,7 @@
     - [x] document Liquid (**BS**)
     - [x] document StringQueue (**AA**)
     - [ ] document DrinkQueue (**DZ**)
-    - [ ] document Cocktail (**BS**)
+    - [x] document Cocktail (**BS**)
 8) tests
     - [ ] implement tests for Liquid (**BS**)
     - [ ] implement tests for DrinkQueue (**DZ**)
