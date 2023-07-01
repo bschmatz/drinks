@@ -18,7 +18,6 @@ public interface DrinkQueueInterface {
      * Retrieves, but does not remove, the head of the queue.
      *
      * @return the head of the queue, or null if the queue is empty
-     * @throws NoSuchElementException if the queue is empty
      */
     Drink peek();
 
