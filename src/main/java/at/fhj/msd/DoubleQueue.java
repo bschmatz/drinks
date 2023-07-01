@@ -8,7 +8,11 @@ public class DoubleQueue implements DoubleQueueInterface{
 
     @Override
     public Double peek() {
-        return null;
+        if(doubleList.size() > 0) {
+            return doubleList.get(0);
+        } else {
+            return null;
+        }
     }
 
     @Override
