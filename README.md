@@ -34,7 +34,7 @@
        - [ ] create constructor (**DZ**)
        - [ ] implement add() (**DZ**)
     - 6.2) queueAA
-      - [ ] implement peek() (**AA**)
+      - [x] implement peek() (**AA**)
     - 6.3) queueBS
       - [x] implement remove() (**BS**)
 7) javadoc
