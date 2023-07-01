@@ -50,8 +50,8 @@
     - [x] create DoubleQueueInterface interface (**BS**)
     - [x] create DoubleQueue class (**DZ**)
     - 9.1) double_queueDZ
-       - [ ] create constructor (**DZ**)
-       - [ ] implement add() (**DZ**)
+       - [x] create constructor (**DZ**)
+       - [x] implement add() (**DZ**)
    - 9.2) double_queueAA
        - [x] implement peek() (**AA**)
    - 9.3) double_queueBS
