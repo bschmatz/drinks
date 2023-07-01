@@ -53,7 +53,7 @@
        - [ ] create constructor (**DZ**)
        - [ ] implement add() (**DZ**)
    - 9.2) double_queueAA
-       - [ ] implement peek() (**AA**)
+       - [x] implement peek() (**AA**)
    - 9.3) double_queueBS
        - [x] implement remove() (**BS**)
 10) maven_site
