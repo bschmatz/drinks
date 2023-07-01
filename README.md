@@ -36,7 +36,7 @@
     - 6.2) queueAA
       - [ ] implement peek() (**AA**)
     - 6.3) queueBS
-      - [ ] implement remove() (**BS**)
+      - [x] implement remove() (**BS**)
 7) javadoc
     - [x] document Liquid (**BS**)
     - [x] document StringQueue (**AA**)
@@ -55,7 +55,7 @@
    - 9.2) double_queueAA
        - [ ] implement peek() (**AA**)
    - 9.3) double_queueBS
-       - [ ] implement remove() (**BS**)
+       - [x] implement remove() (**BS**)
 10) maven_site
     - [ ] complete javadoc (**BS, AA, DZ**)
     - [ ] complete Tests (**BS, AA, DZ**)
