@@ -13,6 +13,8 @@ public class DoubleQueue implements DoubleQueueInterface{
 
     @Override
     public Double remove() {
-        return null;
+        Double toRemove = doubleList.get(0);
+        doubleList.remove(0);
+        return toRemove;
     }
 }
