@@ -2,18 +2,12 @@ package at.fhj.msd;
 
 import java.util.NoSuchElementException;
 
-public class DrinkQueue implements DrinkQueueInterface {
+public class DrinkQueue implements DrinkQueueInterface{
 
-    public DrinkQueue() {
-    }
-
-    public DrinkQueue(Drink drink) {
-        queue.add(drink);
-    }
 
     @Override
     public void add(Drink drink) {
-        queue.add(drink);
+
     }
 
     @Override
