@@ -1,10 +1,19 @@
 package at.fhj.msd;
 
 import java.util.NoSuchElementException;
-
+/**
+ * Represents a queue data structure to organize different drinks into.
+ */
 public class DrinkQueue implements DrinkQueueInterface{
 
+    /**
+     * Creates a queue without any initial drinks in it
+     */
     public DrinkQueue(){}
+
+    /**
+     * Creates a queue, but with 1 starting drink
+     */
     public DrinkQueue(Drink drink){
         queue.add(drink);
     }
