@@ -40,7 +40,7 @@
 7) javadoc
     - [x] document Liquid (**BS**)
     - [x] document StringQueue (**AA**)
-    - [ ] document DrinkQueue (**DZ**)
+    - [x] document DrinkQueue (**DZ**)
     - [x] document Cocktail (**BS**)
 8) tests
     - [x] implement tests for Liquid (**BS**)
