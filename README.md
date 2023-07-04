@@ -44,7 +44,7 @@
     - [x] document Cocktail (**BS**)
 8) tests
     - [x] implement tests for Liquid (**BS**)
-    - [ ] implement tests for DrinkQueue (**DZ**)
+    - [x] implement tests for DrinkQueue (**DZ**)
     - [x] implement tests for Cocktail (**AA**)
     - [x] implement tests for SimpleDrink(**AA**)
     - [x] implement tests for DoubleQueue(**BS**)
