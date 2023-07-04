@@ -1,5 +1,43 @@
 # Exercise 7 "drinks"
 
+### About
+This project uses the implemented methods and classes to work with different liquids (alcoholic and non-alcoholic).
+Those liquids can be mixed and put into data structures like queues to organize them.
+*More detailed description on the classes are below:*
+
+-----------------
+**Cocktail**:
+
+
+The `Cocktail` class represents a specific type of drink that is composed of multiple liquids.
+It extends the `Drink` class and provides methods to calculate the volume, alcohol percentage,
+and determine whether the cocktail is alcoholic.
+-------------
+**DoubleQueue**:
+
+The `DoubleQueue` class implements the `DoubleQueueInterface` and represents a queue
+that can store `Double` objects. It provides methods to add elements to the queue, retrieve the
+first element, remove the first element, and clear the queue.
+-----------------
+**Liquid**:
+
+The `Liquid` class represents a liquid used in drinks. It contains information such as the name of the liquid,
+its volume in liters, and its alcohol percentage.
+------------------
+
+**SimpleDrink**:
+
+The `SimpleDrink` class represents a simple drink that consists of a single liquid. It extends the `Drink` class
+and provides methods to get the volume, alcohol percentage, and determine whether the drink is alcoholic.
+------------
+
+**StringQueue**:
+
+The `StringQueue` class implements the `IQueue` interface and represents a queue data structure that stores
+strings. It provides methods to add elements to the queue, retrieve the first element, retrieve and remove the
+first element, and check if the queue is empty.
+-----------
+
 ## Group
 - Benedikt Schmatz - **BS**
 - Andreas Armanious - **AA**
@@ -65,43 +103,3 @@
     - [ ] create member1.md (**BS**)
     - [ ] create member2.md (**AA**)
     - [ ] create member3.md (**DZ**)
-
-### About
-This project uses the implemented methods and classes to work with different liquids (alcoholic and non-alcoholic).
-Those liquids can be mixed and put into data structures like queues to organize them.
-*More detailed description on the classes are below:*
-
------------------
-**Cocktail**:
-
-
-The `Cocktail` class represents a specific type of drink that is composed of multiple liquids.
-It extends the `Drink` class and provides methods to calculate the volume, alcohol percentage,
-and determine whether the cocktail is alcoholic.
--------------
-**DoubleQueue**:
-
-The `DoubleQueue` class implements the `DoubleQueueInterface` and represents a queue
-that can store `Double` objects. It provides methods to add elements to the queue, retrieve the
-first element, remove the first element, and clear the queue.
------------------
-**Liquid**:
-
-The `Liquid` class represents a liquid used in drinks. It contains information such as the name of the liquid,
-its volume in liters, and its alcohol percentage.
-------------------
-
-**SimpleDrink**:
-
-The `SimpleDrink` class represents a simple drink that consists of a single liquid. It extends the `Drink` class
-and provides methods to get the volume, alcohol percentage, and determine whether the drink is alcoholic.
-------------
-
-**StringQueue**:
-
-The `StringQueue` class implements the `IQueue` interface and represents a queue data structure that stores
-strings. It provides methods to add elements to the queue, retrieve the first element, retrieve and remove the
-first element, and check if the queue is empty.
------------
-
-
