@@ -17,19 +17,23 @@ file and the description of the project which comes with it.
     - implement `add()`
 
 **javadoc**
-  - document `DrinkQueue`
+  - document `DrinkQueue` with comments on what the methods are doing
 
 **tests**
-  - implement tests for `DrinkQueue`
+  - implement tests for `DrinkQueue` 
+    - `setup` adds 2 for the tests created liquids to a "liquids" list, after emptying it before every testcase
+    - `testAdd()` tests, if adding a drink to the `DrinkQueue` works as intended
+    - `testPeek()` tests, if the first added drink actually is first in `DrinkQueue`
+    - `testRemove()` tests, if the removed drink is actually removed from the `DrinkQueue`
 
 **double_queue**
   - create `DoubleQueue` class
-    - double_queueDZ
+    - double_queueDZ (another side branch for each member was created to make the workflow smoother)
       - create constructor
       - implement `add()`
 
 **maven_site**
-  - create `member3.md`
+  - create `member3.md`, a more detailed collection of each task a member had completed
 
 ---
 ## Contact
