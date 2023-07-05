@@ -2,8 +2,8 @@
 
 ## Tasks
 
-Was responsible for the creation of the git repository and the initial file-structure.
-Also created the pom.xml file. Detailed list of tasks can be found below:
+Responsible for various tasks in the project. Notably: Creation of repository and initial file structure.
+Detailed task list can be found below:
 
 **maven**
 - create initial file structure
