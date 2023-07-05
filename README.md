@@ -99,7 +99,7 @@ first element, and check if the queue is empty.
 10) maven_site
     - [x] complete javadoc (**BS, AA, DZ**)
     - [x] complete tests (**BS, AA, DZ**)
-    - [ ] create site.xml (**AA**)
+    - [x] create site.xml (**AA**)
     - [x] create member1.md (**BS**)
-    - [ ] create member2.md (**AA**)
+    - [x] create member2.md (**AA**)
     - [x] create member3.md (**DZ**)
