@@ -7,20 +7,20 @@ Also created the pom.xml file. Detailed list of tasks can be found below:
 
 **maven**
 - create initial file structure
-- create initial `.gitignore`
+- create initial `.gitignore`, which should include all generated files
 
 **maven_detail**
 - create `pom.xml`
-- fill out personal developer details
+- fill out personal developer details, such as name, email, etc.
 
 **drink**
-- implement `getAlcoholPercent()`
-- implement `isAlcoholic()`
+- implement `getAlcoholPercent()`, which returns the alcohol percentage of the cocktail
+- implement `isAlcoholic()`, which returns true if the cocktail is alcoholic
 
 **queue**
 - create `DrinkQueueInterface` interface
   - queueBS
-    - implement `remove()`
+    - implement `remove()`, which removes the first element of the queue and returns it
     - 
 **javadoc**
 - document `Liquid`
@@ -33,7 +33,7 @@ Also created the pom.xml file. Detailed list of tasks can be found below:
 **double_queue**
 - create `DoubleQueueInterface` interface
 - double_queueBS
-  - implement `remove()`
+  - implement `remove()`, which removes the first element of the queue and returns it
 
 ---
 ## Contact
