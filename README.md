@@ -97,8 +97,8 @@ first element, and check if the queue is empty.
    - 9.3) double_queueBS
        - [x] implement remove() (**BS**)
 10) maven_site
-    - [ ] complete javadoc (**BS, AA, DZ**)
-    - [ ] complete Tests (**BS, AA, DZ**)
+    - [x] complete javadoc (**BS, AA, DZ**)
+    - [x] complete tests (**BS, AA, DZ**)
     - [ ] create site.xml (**AA**)
     - [ ] create member1.md (**BS**)
     - [ ] create member2.md (**AA**)
