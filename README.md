@@ -100,6 +100,6 @@ first element, and check if the queue is empty.
     - [x] complete javadoc (**BS, AA, DZ**)
     - [x] complete tests (**BS, AA, DZ**)
     - [ ] create site.xml (**AA**)
-    - [ ] create member1.md (**BS**)
+    - [x] create member1.md (**BS**)
     - [ ] create member2.md (**AA**)
     - [ ] create member3.md (**DZ**)
