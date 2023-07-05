@@ -102,4 +102,4 @@ first element, and check if the queue is empty.
     - [ ] create site.xml (**AA**)
     - [x] create member1.md (**BS**)
     - [ ] create member2.md (**AA**)
-    - [ ] create member3.md (**DZ**)
+    - [x] create member3.md (**DZ**)
