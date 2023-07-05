@@ -52,6 +52,13 @@
         </developer>
     </developers>
 
+    <!-- Project description, visible on maven site index.html -->
+    <description>
+        This project uses the implemented methods and classes to work with different liquids (alcoholic and
+        non-alcoholic). Those liquids can be mixed and put into data structures like queues to organize them.
+        Project made by Benedikt Schmatz, Andreas Armanious and Daniel Zarnhofer.
+    </description>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>

@@ -1,0 +1,12 @@
+<project name="Exercise 7 (Group A) - Documentation">
+    <publishDate position="right"/>
+    <version position="left"/>
+    <body>
+        <menu name="Group Members">
+            <item name="Benedikt Schmatz" href="member1.html"/>
+            <item name="Andreas Armanious" href="member2.html"/>
+            <item name="Daniel Zarnhofer" href="member3.html"/>
+        </menu>
+        <menu ref="reports"/>
+    </body>
+</project>
