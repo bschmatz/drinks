@@ -103,3 +103,12 @@ first element, and check if the queue is empty.
     - [x] create member1.md (**BS**)
     - [x] create member2.md (**AA**)
     - [x] create member3.md (**DZ**)
+
+
+   ```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
